@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/judaa-hearts/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Judaa Hearts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/judaa-hearts/) |
+| **Get License** | [Get License For Judaa Hearts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/judaa-hearts/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e41c524d5f56112352c63c17fa5e6cb686b732dae3693add18f68b43fb8ba656` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

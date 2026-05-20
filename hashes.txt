@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Judaa Hearts
+
+This log tracks the cryptographic history and versioning for the song **Judaa Hearts** (judaa-hearts).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T23:24:15.489953 | `v1` | `e41c524d5f56112352c63c17fa5e6cb686b732dae3693add18f68b43fb8ba656` | `2e5747fcad6267433a91d5f1285c66bd47c516bd221d6e69d6202c5340e009b1` | `2026-05-20_judaa-hearts-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
